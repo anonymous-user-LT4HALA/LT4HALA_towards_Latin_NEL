@@ -1,0 +1,9 @@
+============IN TRAINING (433 mentions)=================
+biencoder recall@64: 0.8752886836027713
+crossencoder accuracy: 0.9472295514511874
+total accuracy: 0.8290993071593533in top5: 0.8706697459584296
+
+============UNSEEN DATA (102 mentions)=================
+biencoder recall@64: 0.7647058823529411
+crossencoder accuracy: 0.6923076923076923
+total accuracy: 0.5294117647058824in top5: 0.7254901960784313
